@@ -13,7 +13,7 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-
+github: nju-se-ai-group
 
 # avatar and Favicon
 avatar: /img/favicon.png
