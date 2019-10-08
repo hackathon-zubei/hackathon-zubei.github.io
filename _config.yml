@@ -4,7 +4,7 @@ email: nju_se_ai_group@163.com
 description: > # this means to ignore newlines until "baseurl:"
   南京大学软件学院AI小组
 baseurl: "" # the subpath of your site, e.g. /blog/
-
+imgurl: "https://raw.githubusercontent.com/nju-se-ai-group/nju-se-ai-group.github.io/master/"
 author: 南京大学软件学院AI小组
 
 # Sidebar filter
